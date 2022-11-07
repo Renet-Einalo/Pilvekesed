@@ -9,31 +9,21 @@
 }
 body {
     padding-top: 80px;
-<<<<<<< HEAD
-    background-color: rgb(139, 223, 223);
-=======
     background-color: rgb(190, 255, 255);
->>>>>>> 8c5076e10e80c85f046948fee3237fb16ee7a771
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     padding-bottom: 50px;
-<<<<<<< HEAD
 }
 body.taust{
     background-image: url("taustapilt2.jpg");
-=======
->>>>>>> 8c5076e10e80c85f046948fee3237fb16ee7a771
 }
 .button {
     display: inline-flex;
     height: 50px;
     padding-left: 0;
-<<<<<<< HEAD
     background: rgb(118, 109, 109);
-=======
     background: #000;
->>>>>>> 8c5076e10e80c85f046948fee3237fb16ee7a771
     border-radius: 5px;
     overflow: hidden;
     font-family: 'Quicksand', sans-serif;
@@ -106,7 +96,6 @@ h1 {
     font-size: 60px;
     font-weight: 500;
     text-align: center;
-<<<<<<< HEAD
     color: #000000;
 }
 h2 {
@@ -121,15 +110,13 @@ h3 {
     font-size: 30px;
     font-weight: 500;
     text-align: center;
-=======
 }
 
 h1 {
     font-family: 'Quicksand', sans-serif;
     font-size: 60px;
-    font-weight: 500;
-    text-align: center;
->>>>>>> 8c5076e10e80c85f046948fee3237fb16ee7a771
+    font-style: oblique;
+    text-align: left;
     color: #000000;
 }
 
